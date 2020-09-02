@@ -1,3 +1,4 @@
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielmnzs/wallet-app?color=%2304D361">
 
@@ -17,22 +18,22 @@
   </a>
 </p>
 
-### Descrição:
+### 📄 Descrição:
 
 Projeto de interface de uma carteira digital.
 
-### Tecnologias:
+### 💻 Tecnologias:
 
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.io/)
 
-### Rodando a aplicação:
+### 🚀 Rodando a aplicação:
 
 Execute ```yarn``` na pasta mobile para instalar as dependências.
 
 Execute ```yarn start``` ou ```expo start``` para iniciar a aplicação.
 
-### Possíveis melhorias:
+### 🚧 Possíveis melhorias:
 
-* Transformar o picker customizado em um componente.
-* Fazer com que o picker possa filtrar os dados carregados na api.
+* Transformar o picker customizado em um *componente*.
+* Fazer com que o picker possa *filtrar* os dados carregados na api.
